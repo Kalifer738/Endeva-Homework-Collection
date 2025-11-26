@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 5", "Homework 5", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-06-for-loop-print-numbers", "Exercise-5-for-loop-print\Exercise-06-for-loop-print-numbers.csproj", "{709A8B8C-15F7-4B28-B75F-BDD96B841F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-07-for-loop-print-names", "Exercise-6-for-loop-print-names\Exercise-07-for-loop-print-names.csproj", "{F60FE64C-9E23-432D-B494-A87A74346F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-08-print-numbers-from-1-until-input-number", "Exercise-7-print-numbers-from-1-until-input-number\Exercise-08-print-numbers-from-1-until-input-number.csproj", "{3035CB81-79AE-4C60-907B-91F1AF48B46A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-09-print-prompt-while-input-is-not-n", "Exercise-8-print-numbers-from-table-while-input-is-given\Exercise-09-print-prompt-while-input-is-not-n.csproj", "{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-11-print-primary-numbers-from-1-until-n", "Exercise-10-print-multiplication-table\Exercise-11-print-primary-numbers-from-1-until-n.csproj", "{1997C85F-0ECC-4A80-A500-2C96C12A432E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-10-print-multiplication-table-using-nested-for-loops", "Exercise-10-print-multiplication-table-using-nested-for-loops\Exercise-10-print-multiplication-table-using-nested-for-loops.csproj", "{70A982FB-4E0D-42DB-A32F-03CCA6E42263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-12-print-positive-even-numbers", "Exercise-11-print-prime-numbers-with-conditions\Exercise-12-print-positive-even-numbers.csproj", "{171C65F5-8317-4912-850C-6BC72AB7A375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709A8B8C-15F7-4B28-B75F-BDD96B841F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709A8B8C-15F7-4B28-B75F-BDD96B841F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709A8B8C-15F7-4B28-B75F-BDD96B841F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709A8B8C-15F7-4B28-B75F-BDD96B841F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60FE64C-9E23-432D-B494-A87A74346F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60FE64C-9E23-432D-B494-A87A74346F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60FE64C-9E23-432D-B494-A87A74346F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60FE64C-9E23-432D-B494-A87A74346F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3035CB81-79AE-4C60-907B-91F1AF48B46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3035CB81-79AE-4C60-907B-91F1AF48B46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3035CB81-79AE-4C60-907B-91F1AF48B46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3035CB81-79AE-4C60-907B-91F1AF48B46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1997C85F-0ECC-4A80-A500-2C96C12A432E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1997C85F-0ECC-4A80-A500-2C96C12A432E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1997C85F-0ECC-4A80-A500-2C96C12A432E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1997C85F-0ECC-4A80-A500-2C96C12A432E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A982FB-4E0D-42DB-A32F-03CCA6E42263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A982FB-4E0D-42DB-A32F-03CCA6E42263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A982FB-4E0D-42DB-A32F-03CCA6E42263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A982FB-4E0D-42DB-A32F-03CCA6E42263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171C65F5-8317-4912-850C-6BC72AB7A375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171C65F5-8317-4912-850C-6BC72AB7A375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171C65F5-8317-4912-850C-6BC72AB7A375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171C65F5-8317-4912-850C-6BC72AB7A375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{709A8B8C-15F7-4B28-B75F-BDD96B841F1D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F60FE64C-9E23-432D-B494-A87A74346F37} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3035CB81-79AE-4C60-907B-91F1AF48B46A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{48DF7CFC-8F0F-4DEC-BEA9-C37737984D78} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1997C85F-0ECC-4A80-A500-2C96C12A432E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{70A982FB-4E0D-42DB-A32F-03CCA6E42263} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{171C65F5-8317-4912-850C-6BC72AB7A375} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1421264C-6AF3-45D5-845D-618A9FC9160A}
+	EndGlobalSection
+EndGlobal

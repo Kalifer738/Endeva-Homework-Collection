@@ -1,0 +1,14 @@
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\bin\Debug\net8.0\Exercise-6-for-loop-print-names.exe
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\bin\Debug\net8.0\Exercise-6-for-loop-print-names.deps.json
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\bin\Debug\net8.0\Exercise-6-for-loop-print-names.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\bin\Debug\net8.0\Exercise-6-for-loop-print-names.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\bin\Debug\net8.0\Exercise-6-for-loop-print-names.pdb
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\refint\Exercise-6-for-loop-print-names.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.pdb
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\Exercise-6-for-loop-print-names.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-6-for-loop-print-names\obj\Debug\net8.0\ref\Exercise-6-for-loop-print-names.dll

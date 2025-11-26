@@ -1,0 +1,14 @@
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\bin\Debug\net8.0\Exercise-5-for-loop-print-numbers.exe
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\bin\Debug\net8.0\Exercise-5-for-loop-print-numbers.deps.json
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\bin\Debug\net8.0\Exercise-5-for-loop-print-numbers.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\bin\Debug\net8.0\Exercise-5-for-loop-print-numbers.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\bin\Debug\net8.0\Exercise-5-for-loop-print-numbers.pdb
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\refint\Exercise-5-for-loop-print-numbers.dll
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.pdb
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\Exercise-5-for-loop-print-numbers.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Endeva QA\Homework\Homework Master\Endeva-Master-Project-Homework-Solutions\Exercise-5-for-loop-print\obj\Debug\net8.0\ref\Exercise-5-for-loop-print-numbers.dll
