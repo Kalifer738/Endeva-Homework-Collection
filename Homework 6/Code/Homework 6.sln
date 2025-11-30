@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Live", "Live", "{A53BF1BF-64DC-4324-B918-6E057C121502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-6-find-biggest-element-in-array-implement-sort-with-it", "Homework\homework-6-find-biggest-element-in-array-implement-sort-with-it\homework-6-find-biggest-element-in-array-implement-sort-with-it.csproj", "{1FC1C85D-AF16-30B4-22E0-4CCE20E22272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live-Session-4-digit-guesser-with-hints", "Live Session\Live-Session-4-digit-guesser-with-hints.csproj", "{C998D98A-14C9-A6F1-1F61-F81F239D7C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-7-fun-greetings", "Homework\homework-6-fun-greetings\homework-7-fun-greetings\homework-7-fun-greetings.csproj", "{9A36B147-86FC-47CF-AA31-C6D7D0F84888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-8-dice-game", "Homework\homework-8-dice\ConsoleApp1\homework-8-dice-game.csproj", "{7D749676-9BAD-4492-BF1C-3D306F4C536B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC1C85D-AF16-30B4-22E0-4CCE20E22272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC1C85D-AF16-30B4-22E0-4CCE20E22272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC1C85D-AF16-30B4-22E0-4CCE20E22272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC1C85D-AF16-30B4-22E0-4CCE20E22272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C998D98A-14C9-A6F1-1F61-F81F239D7C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C998D98A-14C9-A6F1-1F61-F81F239D7C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C998D98A-14C9-A6F1-1F61-F81F239D7C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C998D98A-14C9-A6F1-1F61-F81F239D7C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A36B147-86FC-47CF-AA31-C6D7D0F84888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A36B147-86FC-47CF-AA31-C6D7D0F84888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A36B147-86FC-47CF-AA31-C6D7D0F84888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A36B147-86FC-47CF-AA31-C6D7D0F84888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D749676-9BAD-4492-BF1C-3D306F4C536B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D749676-9BAD-4492-BF1C-3D306F4C536B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D749676-9BAD-4492-BF1C-3D306F4C536B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D749676-9BAD-4492-BF1C-3D306F4C536B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FC1C85D-AF16-30B4-22E0-4CCE20E22272} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C998D98A-14C9-A6F1-1F61-F81F239D7C8A} = {A53BF1BF-64DC-4324-B918-6E057C121502}
+		{9A36B147-86FC-47CF-AA31-C6D7D0F84888} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7D749676-9BAD-4492-BF1C-3D306F4C536B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CD0D3C-5A6E-431B-8668-4A237FA97692}
+	EndGlobalSection
+EndGlobal
